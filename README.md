@@ -61,5 +61,5 @@ Contributions
 Using an Animate css grid library that can be found at https://github.com/aholachek/animate-css-grid. 
 This script enables us to transition CSS grid gracefully from one state to another, instead of using Canvas JS. 
 
-Unsplash CDN
+Unsplash source for use in small, low-traffic applications. -  https://source.unsplash.com 
 
