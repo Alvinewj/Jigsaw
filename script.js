@@ -1,3 +1,4 @@
+
 // Initiate CSS Grid animation tool
 const grid = document.querySelector(".grid");
 const { forceGridAnimation } = animateCSSGrid.wrapGrid(grid);
